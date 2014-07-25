@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<subscription>
+    <name>subscription</name>
+    <emails>
+        <email>vstagit@productengine.com</email>
+        <email>vadimxvortex@rambler.ru</email>
+        <email>arevyakin@productengine.com</email>
+        <email>google@productengine.com</email>
+    </emails>
+</subscription>

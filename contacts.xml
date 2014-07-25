@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<contacts>	
+    <member>
+      <name>Vadim</name>
+      <email>vstagit@productengine.com</email>
+    </member><member>
+      <name>JSON</name>
+      <email>json@productengine.com</email>
+    </member><member>
+      <name>Alex</name>
+      <email>google@productengine.com</email>
+    </member><member>
+      <name>Alex</name>
+      <email>arevyakin@productengine.com</email>
+    </member><member>
+      <name>River</name>
+      <email>rivera@mail.ru</email>
+    </member><member>
+      <name>TestRiver</name>
+      <email>rivera@mail.ru</email>
+    </member></contacts>
